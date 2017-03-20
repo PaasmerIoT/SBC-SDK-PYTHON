@@ -56,9 +56,9 @@ tmpspimosi = 21
 #input to the IC to the output of the RPi
 tmpcs = 25 
 #chip select of IC
-UserName = "mahendra.bilagi@gmail.com" 
+UserName = "XXXXYYYY@gmail.com" 
 #your user name used in developer.paasmer.co for registration
-DeviceName = "HariPi" 
+DeviceName = "RASPi" 
 #your device name
 feedname1 = "TemprSensor" 
 #feed name used for displaying in the developer.paasmer.co This feed is restricted to temprature sensor
